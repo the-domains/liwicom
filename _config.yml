@@ -1,0 +1,14 @@
+layout_spectrum: 0.16421653726138175
+typography_spectrum: 0.8906843974255025
+color:
+  brandStrength: 0.8392663404811174
+  lightness: 0.17343901796266437
+  saturation: 0.19898086786270142
+  rhythmicContrast: 0.5599265771452338
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+name: Liwicom
